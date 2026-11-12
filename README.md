@@ -1,4 +1,4 @@
-# Python Data Structures Practice — Completed
+# Python Data Structures Practice
 
 ## Project structure
 
